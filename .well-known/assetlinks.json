@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.nowhereuri.twa",
+        "sha256_cert_fingerprints": ["9E:F5:5B:82:5F:96:B7:84:CC:54:0A:C7:92:4A:56:8E:3C:03:00:FD:9A:7F:00:E2:2C:43:DE:B2:0F:0C:12:EE"]
+      }
+    }]
